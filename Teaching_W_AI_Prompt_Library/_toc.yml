@@ -7,3 +7,4 @@ parts:
   - caption: "Module 1: The Teaching with AI Framework"
     chapters:
       - file: Create_Workspace.md
+      - file: Create_PA.md
