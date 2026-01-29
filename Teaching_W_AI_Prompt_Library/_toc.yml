@@ -21,3 +21,4 @@ parts:
   - caption: "Module 3: AI-Enhanced Class Design and Development"
     chapters:
       - file: Breakdown_Content.md
+      - file: DesignClass_Session.md
