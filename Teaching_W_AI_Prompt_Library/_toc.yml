@@ -18,3 +18,6 @@ parts:
       - file: Create_Syllabus.md
       - file: Update_Work&PA.md
       - file: Mod2_exercises.md
+  - caption: "Module 3: AI-Enhanced Class Design and Development"
+    chapters:
+      - file: Breakdown_Content.md
