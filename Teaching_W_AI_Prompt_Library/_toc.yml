@@ -11,3 +11,4 @@ parts:
   - caption: "Module 2: AI-Enhanced Pedagogical-Didactic Planning"
     chapters:
       - file: Define_Goals.md
+      - file: Identify_Audience.md
