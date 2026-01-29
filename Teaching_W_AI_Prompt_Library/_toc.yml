@@ -27,3 +27,4 @@ parts:
       - file: Init_Disccusion.md
       - file: Class_Summary.md
       - file: Update_WorkspaceAndPA.md
+      - file: Mod3_exercises.md
