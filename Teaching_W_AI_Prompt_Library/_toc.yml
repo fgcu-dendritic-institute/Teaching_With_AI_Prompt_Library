@@ -13,3 +13,4 @@ parts:
       - file: Define_Goals.md
       - file: Identify_Audience.md
       - file: Select_Approaches.md
+      - file: Choose_tools.md
