@@ -26,3 +26,4 @@ parts:
       - file: Prepare_Learning.md
       - file: Init_Disccusion.md
       - file: Class_Summary.md
+      - file: Update_WorkspaceAndPA.md
