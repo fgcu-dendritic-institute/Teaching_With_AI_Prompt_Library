@@ -15,3 +15,4 @@ parts:
       - file: Select_Approaches.md
       - file: Choose_tools.md
       - file: Align_and_Ethics.md
+      - file: Create_Syllabus.md
