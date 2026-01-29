@@ -24,3 +24,4 @@ parts:
       - file: DesignClass_Session.md
       - file: Create_Learning_Activities.md
       - file: Prepare_Learning.md
+      - file: Init_Disccusion.md
