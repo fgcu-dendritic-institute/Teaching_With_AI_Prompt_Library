@@ -1,4 +1,4 @@
-# 2.4 Choose Tools and Technologies
+# Choose Tools and Technologies
 
 ## Purpose
 
