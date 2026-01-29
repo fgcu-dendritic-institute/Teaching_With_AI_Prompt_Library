@@ -33,33 +33,3 @@ Break the course into modules with titles, descriptions, and key concepts.
 ```
 Design a 90-minute class session with objectives, activities, and materials.
 ```
-
-## Exercise 3 — Generate Learning Activities
-
-**Goal:** Create AI-supported activity plans that promote active learning.
-
-**Steps:**
-
-1. Choose a class topic.
-2. Use the activity-generation prompt.
-3. Request variations for different complexity levels.
-
-## Exercise 4 — Generate and Validate Learning Materials
-
-**Goal:** Use AI to produce readings, examples, tools, and teaching aids.
-
-**Steps:**
-
-1. Run the materials prompt.
-2. Request multiple formats (summary, table, example, visual).
-3. Validate outputs manually for accuracy.
-
-## Exercise 5 — Create a Class Summary Generator
-
-**Goal:** Build a reusable summary generator prompt.
-
-**Steps:**
-
-1. Copy the summary prompt.
-2. Run it on an example transcript or your own notes.
-3. Ask for three versions: bullet list, student-friendly, expert-level.
