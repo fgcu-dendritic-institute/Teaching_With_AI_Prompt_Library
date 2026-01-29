@@ -22,3 +22,4 @@ parts:
     chapters:
       - file: Breakdown_Content.md
       - file: DesignClass_Session.md
+      - file: Create_Learning_Activities.md
