@@ -1,4 +1,4 @@
-# 📚 Teaching with AI — Prompt Library
+# Teaching with AI — Prompt Library
 
 ## Welcome
 

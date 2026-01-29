@@ -8,3 +8,6 @@ parts:
     chapters:
       - file: Create_Workspace.md
       - file: Create_PA.md
+  - caption: "Module 2: AI-Enhanced Pedagogical-Didactic Planning"
+    chapters:
+      - file: Define_Goals.md

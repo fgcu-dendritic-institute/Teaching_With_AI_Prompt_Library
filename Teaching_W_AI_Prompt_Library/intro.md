@@ -1,4 +1,4 @@
-# 📚 Teaching with AI — Prompt Library
+# Teaching with AI — Prompt Library
 
 ## Welcome
 
@@ -68,4 +68,4 @@ Use the sidebar to explore prompt sets for:
 - Assessment
 - Reflection
 
-Start with **Module 1: Foundations for Teaching with AI**.
+Start with **Module 1: The Teaching with AI FrameworkI**.
