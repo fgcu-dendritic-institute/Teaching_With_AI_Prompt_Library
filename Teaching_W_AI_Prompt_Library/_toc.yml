@@ -32,3 +32,4 @@ parts:
     chapters:
       - file: Design_Learning_Outcomes.md
       - file: Create_Tasks.md
+      - file: Create_Rubrics.md
