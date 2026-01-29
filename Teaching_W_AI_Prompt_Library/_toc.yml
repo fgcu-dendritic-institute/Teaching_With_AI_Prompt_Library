@@ -35,3 +35,4 @@ parts:
       - file: Create_Rubrics.md
       - file: Ensure_Accessibility.md
       - file: Update_Work&PA_Mod4.md
+      - file: Mod4_exercises.md
