@@ -31,3 +31,4 @@ parts:
   - caption: "Module 4: AI-Enhanced Assignments and Exam Preparation"
     chapters:
       - file: Design_Learning_Outcomes.md
+      - file: Create_Tasks.md
