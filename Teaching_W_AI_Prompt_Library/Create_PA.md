@@ -1,45 +1,21 @@
 # Creating Your Course Personalized Assistant
 
-_A course-specific AI tutor accessible to students_
+## Steps to Create Your Personalized Assistant
 
-This is the second tool you will build during this module.
-
-You may create it using:
-
-- ChatGPT Custom GPT
-- Claude Artifact-based assistants
-- Microsoft Copilot Agents
-- Gemini Gems
-- Perplexity Spaces (Tutor Me Template)
-
-## Purpose of the Personalized Assistant
-
-- Act as a course tutor
-- Answer student questions
-- Provide explanations at multiple difficulty levels
-- Generate study guides
-- Clarify assignments
-- Offer responsible-use reminders
-- Supplement office hours
-
-![Personalized Assistant](./Data/PA.png)
-
-### Steps to Create Your Personalized Assistant
-
-#### Step 1. Define the PA name
+### Step 1. Define the PA name
 
 ```
 Teaching with AI Tutor
 ```
 
-#### Step 2: Provide the PA description
+### Step 2: Provide the PA description
 
 ```
 I am the Course AI Tutor for [Course Name].
 My primary mission is to help you understand course materials clearly and responsibly.
 ```
 
-#### Step 3. Set instructions
+### Step 3. Set instructions
 
 **Simple Instructions**
 
@@ -90,7 +66,7 @@ Safety & Boundaries:
 - Promote academic honesty and proper citation.
 ```
 
-#### Step 4. Add conversation starters
+### Step 4. Add conversation starters
 
 ```
 Explain this topic [Topic] in simple terms.
@@ -112,7 +88,7 @@ Can you help me create a study plan for this topic [Topic]?
 Explain this concept [Concept] at a beginner level, then at an advanced level.
 ```
 
-#### Step 5. Add course materials (knowledge base)
+### Step 5. Add course materials (knowledge base)
 
 - Syllabus
 - Schedule
