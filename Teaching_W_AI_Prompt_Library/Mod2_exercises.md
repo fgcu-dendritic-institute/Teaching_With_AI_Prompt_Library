@@ -22,7 +22,7 @@ Map each of the following learning outcomes to:
 Present results in a table.
 ```
 
-### Exercise 2 — Create a Learner Profile
+## Exercise 2 — Create a Learner Profile
 
 **Goal:** Develop an AI-assisted learner persona.
 
@@ -33,7 +33,7 @@ Present results in a table.
 3. Request two persona variants.
 4. Compare adaptations needed.
 
-### Exercise 3 — Select Pedagogical Models
+## Exercise 3 — Select Pedagogical Models
 
 **Goal:** Identify pedagogical models aligned with outcomes and audience.
 
@@ -47,7 +47,7 @@ Present results in a table.
 Generate 3 learning activities aligned with this model and the outcomes.
 ```
 
-### Exercise 4 — Draft AI Use Policies
+## Exercise 4 — Draft AI Use Policies
 
 **Goal:** Produce a policy aligned with the institution guidelines.
 
@@ -61,7 +61,7 @@ Generate 3 learning activities aligned with this model and the outcomes.
    - flexible version
 4. Choose one to include in syllabus.
 
-### Exercise 5 — Produce a Syllabus Draft
+## Exercise 5 — Produce a Syllabus Draft
 
 **Goal:** Create a complete syllabus using the course template.
 
