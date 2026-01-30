@@ -43,3 +43,4 @@ parts:
       - file: Content_Delivery.md
       - file: Engagement.md
       - file: Adapt_Pacing.md
+      - file: Mod5_exercises.md
