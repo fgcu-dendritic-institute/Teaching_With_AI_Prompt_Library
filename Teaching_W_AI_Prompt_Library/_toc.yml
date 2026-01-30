@@ -48,3 +48,4 @@ parts:
     chapters:
       - file: Office_Hours.md
       - file: Assignment_Assignment.md
+      - file: Monitor_Student.md
