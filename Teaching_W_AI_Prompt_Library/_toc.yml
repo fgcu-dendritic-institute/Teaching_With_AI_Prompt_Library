@@ -51,3 +51,6 @@ parts:
       - file: Monitor_Student.md
       - file: Peer_Collab.md
       - file: PA_extensions.md
+  - caption: "Module 7: AI in Assessment and Feedback"
+    chapters:
+      - file: Conduct_Assessments.md
