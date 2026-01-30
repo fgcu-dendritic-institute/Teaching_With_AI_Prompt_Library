@@ -54,3 +54,4 @@ parts:
   - caption: "Module 7: AI in Assessment and Feedback"
     chapters:
       - file: Conduct_Assessments.md
+      - file: Gen_Feedback.md
