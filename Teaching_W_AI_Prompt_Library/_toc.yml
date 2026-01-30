@@ -40,3 +40,4 @@ parts:
     chapters:
       - file: Student_Learning.md
       - file: Storytelling.md
+      - file: Content_Delivery.md
