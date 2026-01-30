@@ -36,3 +36,6 @@ parts:
       - file: Ensure_Accessibility.md
       - file: Update_Work&PA_Mod4.md
       - file: Mod4_exercises.md
+  - caption: "Module 5: AI-Enabled Class Delivery"
+    chapters:
+      - file: Student_Learning.md
