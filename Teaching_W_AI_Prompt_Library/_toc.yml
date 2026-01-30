@@ -42,3 +42,4 @@ parts:
       - file: Storytelling.md
       - file: Content_Delivery.md
       - file: Engagement.md
+      - file: Adapt_Pacing.md
