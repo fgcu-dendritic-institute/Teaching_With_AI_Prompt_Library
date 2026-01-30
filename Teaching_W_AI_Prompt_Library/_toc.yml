@@ -57,3 +57,6 @@ parts:
       - file: Gen_Feedback.md
       - file: Self&Peer_Assessment.md
       - file: Feedback&Grading.md
+  - caption: "Module 8: AI-Supported Reflection and Improvement"
+    chapters:
+      - file: Identify.md
