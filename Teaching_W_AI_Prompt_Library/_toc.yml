@@ -44,3 +44,6 @@ parts:
       - file: Engagement.md
       - file: Adapt_Pacing.md
       - file: Mod5_exercises.md
+  - caption: "Module 6: AI Powered Student Support  "
+    chapters:
+      - file: Office_Hours.md
