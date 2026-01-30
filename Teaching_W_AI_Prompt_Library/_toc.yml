@@ -60,3 +60,4 @@ parts:
   - caption: "Module 8: AI-Supported Reflection and Improvement"
     chapters:
       - file: Identify.md
+      - file: Revise_Materials.md
