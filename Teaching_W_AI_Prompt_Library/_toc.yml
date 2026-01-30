@@ -50,3 +50,4 @@ parts:
       - file: Assignment_Assignment.md
       - file: Monitor_Student.md
       - file: Peer_Collab.md
+      - file: PA_extensions.md
