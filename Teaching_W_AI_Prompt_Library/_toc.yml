@@ -39,3 +39,4 @@ parts:
   - caption: "Module 5: AI-Enabled Class Delivery"
     chapters:
       - file: Student_Learning.md
+      - file: Storytelling.md
