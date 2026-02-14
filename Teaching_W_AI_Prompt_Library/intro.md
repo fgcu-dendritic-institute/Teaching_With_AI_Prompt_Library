@@ -24,6 +24,22 @@ The picture below contains a summary of the main modules of our framework and th
 
 ---
 
+## Structure and Approach
+*A multi-layered, workflow-driven program for operational AI integration in higher education*  
+
+The **Prompt Library for Teaching with AI** is built as a *practical, operational, and iterative set of prompts* for integrating generative AI into every phase of the teaching and learning cycle presented previously. Unlike pedagogical theory–oriented programs, this library focuses on how instructors actually use AI prompts systematically, responsibly, and efficiently within real teaching workflows.
+
+Across eight modules, instructors progressively build two persistent tools:
+
+- **The AI Workspace (Project)** – your *design and development environment* for planning, creating, auditing, and improving course materials. The main platforms to be used to create AI workspaces are ChatGPT, Perplexity, Claude, and Grok).
+- **The Course Personalized Assistant (PA)** – your *student-facing AI tutor* for explanations, study support, and assignment clarification (without solving graded tasks). The main platforms to be used to create PAs are Custom GPTs, Claude Artifacts, Gemini Gems, and CoPilot Agents.
+
+![Core Operational Tools](./Data/MM_Assets.png)
+
+The entire program and library is structured as a **guided transformation of your teaching practice**, with each module updating, refining, and expanding these tools.
+
+---
+
 ## What Is This Library For?
 
 The Prompt Library helps instructors:
