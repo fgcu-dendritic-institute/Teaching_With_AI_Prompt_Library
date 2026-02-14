@@ -8,6 +8,20 @@ This library provides **ready-to-use prompts and templates** to help instructors
 
 Rather than focusing on theory, the Prompt Library emphasizes **practical, hands-on use of AI tools** for real instructional tasks.
 
+## The Instrumental Augmentation of Teaching with AI
+
+The **Teaching with AI Framework** provides a structured, operational view of how generative AI can be integrated into each phase of the teaching process. Rather than altering pedagogy, it highlights where AI can add efficiency, creativity, and support across planning, design, delivery, assessment, student support, and reflection.
+
+This framework structures classical phases of teaching into seven parts as **AI‑supported processes**, emphasizing the *operational* integration of GenAI at each step.
+
+![TL_Process_Framework](./Data/TL_Process_Framework.png)
+
+This library provides a variety of prompts related with the foundation for the instrumental use of Generative AI (GenAI) across the entire teaching workflow. It is built upon the background knowledge from the **AI Literacy Program** (Prompt Engineering, Context Engineering, and Foundational Models) and the full **Teaching with AI** program of the FGCU AI Academy.  
+
+The picture below contains a summary of the main modules of our framework and the main tools and deliverables of each step. 
+
+![Modules Overview](./Data/TeachingWorkflow.png)
+
 ---
 
 ## What Is This Library For?
@@ -37,7 +51,7 @@ Each prompt is designed to be **copy-ready and adaptable** to your own course co
 
 ---
 
-## Tool Neutral
+## Tool Neutrality
 
 The prompts are **model-agnostic** and work across tools such as ChatGPT, Claude, Gemini, Perplexity, NotebookLM, and others. Focus on the workflow, not the platform.
 
@@ -69,3 +83,20 @@ Use the sidebar to explore prompt sets for:
 - Reflection
 
 Start with **Module 1: The Teaching with AI FrameworkI**.
+
+---
+
+## About the Instructor – Dr. Leandro Nunes de Castro
+
+- Professor in the **Department of Computing and Software Engineering**, U.A. Whitaker College of Engineering, FGCU.
+- Ph.D. in Computer Engineering with 30 years of experience in **Artificial Intelligence, Data Science, and Natural Computing**.
+- Director of the **Dendritic Institute for Artificial Intelligence and Data Science** at FGCU.
+- Author of various AI and Data Science books and papers, and recognized among the **Top 2% most influential researchers in Computer Science worldwide**.
+- Experienced entrepreneur, researcher, and educator with a focus on applying AI for innovation, business, and societal impact.
+- Active mentor and collaborator with international academic and industry partners.
+
+## Acknowledgements
+
+Developed by **Dr. Leandro Nunes de Castro**©️ for the **Dendritic Institute for Human-Centered AI & Data Science**, within the **U.A. Whitaker College of Engineering at Florida Gulf Coast University**.
+
+Content curated by the team, with support from large language models such as ChatGPT, Claude, Gemini, Perplexity, Gamma.ai, Napkin, and CoPilot, following ethical and pedagogical review.
