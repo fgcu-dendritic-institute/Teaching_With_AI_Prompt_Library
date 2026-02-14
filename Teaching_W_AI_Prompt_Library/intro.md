@@ -22,8 +22,6 @@ The picture below contains a summary of the main modules of our framework and th
 
 ![Modules Overview](./Data/TeachingWorkflow.png)
 
----
-
 ## Structure and Approach
 *A multi-layered, workflow-driven program for operational AI integration in higher education*  
 
@@ -38,8 +36,6 @@ Across eight modules, instructors progressively build two persistent tools:
 
 The entire program and library is structured as a **guided transformation of your teaching practice**, with each module updating, refining, and expanding these tools.
 
----
-
 ## What Is This Library For?
 
 The Prompt Library helps instructors:
@@ -53,8 +49,6 @@ The Prompt Library helps instructors:
 
 Each prompt is designed to be **copy-ready and adaptable** to your own course context.
 
----
-
 ## How to Use the Prompts
 
 1. Pick a task (e.g., _design a class session_).
@@ -65,13 +59,9 @@ Each prompt is designed to be **copy-ready and adaptable** to your own course co
 
 > AI supports teaching — it does not replace instructor judgment.
 
----
-
 ## Tool Neutrality
 
 The prompts are **model-agnostic** and work across tools such as ChatGPT, Claude, Gemini, Perplexity, NotebookLM, and others. Focus on the workflow, not the platform.
-
----
 
 ## Responsible Use
 
@@ -83,8 +73,6 @@ All prompts follow the Teaching with AI principles:
 - Keep instructor and student tools separate
 
 You remain responsible for how AI is used in your course.
-
----
 
 ## Get Started
 
@@ -99,8 +87,6 @@ Use the sidebar to explore prompt sets for:
 - Reflection
 
 Start with **Module 1: The Teaching with AI FrameworkI**.
-
----
 
 ## About the Instructor – Dr. Leandro Nunes de Castro
 
